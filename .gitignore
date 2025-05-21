@@ -1,0 +1,6 @@
+Results.Rdata
+*.Rdata
+biocusers.json
+*json
+packages.conf
+*conf
