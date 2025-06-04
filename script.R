@@ -505,3 +505,15 @@ save.image("Results.Rdata")
 > df_merged_pkg[which(df_merged_pkg$pkg=="BiocIO"),]
        pkg usernames email github_username
 174 BiocIO dvantwisk  <NA>            <NA>
+
+
+## NOTE:  The below are usernames!!!  Not github_ids!!     
+    
+    ## bioconductor writers substitute
+    ## do we keep these; in the past these trusted had access to key bioc packages
+    ## @bioconductor_writers = jmacdon khansen m.smith whuber m.lawrence
+
+    ## Core users
+    ## core team that had push access to everything
+    ## @core-users = mtmorgan@fhcrc.org hpages@fhcrc.org l.shepherd LiNk-NY stvjc jennifer.wokaty
+  
